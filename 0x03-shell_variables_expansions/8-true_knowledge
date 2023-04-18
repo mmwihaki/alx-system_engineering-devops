@@ -1,0 +1,2 @@
+#!/bin/bash
+var=128 echo $(expr $TRUEKNOWLEDGE + $var)
