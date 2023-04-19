@@ -1,0 +1,2 @@
+#!/bin/bas
+awk '{print $1}'
